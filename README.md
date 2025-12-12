@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://novindmiksie.github.io/Meraki-website-project/">
-    <img src="https://github.com/Novindmiksie/Meraki-website-project/blob/main/Images/meraki_logo.png" alt="Meraki Logo" width="1530" height="194">
+    <img src="https://github.com/Novindmiksie/Meraki-website-project/blob/main/images/meraki_logo.png" alt="Meraki Logo" width="1530" height="194">
   </a>
 
 <h3 align="center">Meraki</h3>
@@ -46,7 +46,7 @@ This project is submitted in partial fulfillment of the requirements for **DCSN0
 
 ## Overview
 <div align="center">
-  <img src="https://github.com/Novindmiksie/Meraki-website-project/blob/main/Images/main_page.gif" alt="website demo" width="960" height="470">
+  <img src="https://github.com/Novindmiksie/Meraki-website-project/blob/main/images/main_page.gif" alt="website demo" width="960" height="470">
 </div>
 
 **Meraki** is a front-end web project built to share movies that made an impact on the developers. The site functions as a curated movie database, categorized by specific genres: **Action Anime**, **Coming of Age**, **Horror**, and **Musicals**.
@@ -83,8 +83,8 @@ The application utilizes vanilla JavaScript to create a dynamic user experience:
 * **Feedback Submission through Email:** After submission through the contact form, the information is sent to Meraki's email.
 
 <div align="center">
-  <img src="https://github.com/Novindmiksie/Meraki-website-project/blob/main/Images/Contact%20form.png" alt="website demo" width="760" height="370">
-  <img src="https://github.com/Novindmiksie/Meraki-website-project/blob/main/Images/email%20form.png" alt="website demo" width="760" height="370">
+  <img src="https://github.com/Novindmiksie/Meraki-website-project/blob/main/images/Contact%20form.png" alt="website demo" width="760" height="370">
+  <img src="https://github.com/Novindmiksie/Meraki-website-project/blob/main/images/email%20form.png" alt="website demo" width="760" height="370">
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -177,4 +177,5 @@ For inquiries, feedback, or grade-related correspondence, please contact:
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
