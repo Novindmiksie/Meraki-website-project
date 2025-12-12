@@ -79,7 +79,7 @@ The application utilizes vanilla JavaScript to create a dynamic user experience:
 ### 📩 Contact Form Features
 * **Data Integrity:** The form ensures the `Name` and `Message` fields are not empty.
 * **Regex Verification:** The email field is validated against a strict regular expression (`/^[^\s@]+@[^\s@]+\.[^\s@]+$/`) to ensure valid contact info.
-* **Serverless Backend:** Submissions are routed through **Web3Forms** using a unique access key (`31a52701-8518-44d5-8aae-8e2ddf16f48f`).
+* **Serverless Backend:** Submissions are routed through **Web3Forms** using a unique access key.
 * **Feedback Submission through Email:** After submission through the contact form, the information is sent to Meraki's email.
 
 <div align="center">
@@ -177,5 +177,6 @@ For inquiries, feedback, or grade-related correspondence, please contact:
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
