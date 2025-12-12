@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://novindmiksie.github.io/Meraki-website-project/">
     <img src="https://github.com/Novindmiksie/Meraki-website-project/blob/main/Images/meraki_logo.png" alt="Meraki Logo" width="1530" height="194">
   </a>
 
@@ -33,7 +33,7 @@
 
 ## Submission Information
 
-This project is submitted in partial fulfillment of the requirements for **CS102 (Computer Programming)** at **Lyceum of the Philippines University — Cavite**.
+This project is submitted in partial fulfillment of the requirements for **DCSN01C (Introduction to Computing)** at **Lyceum of the Philippines University — Cavite**.
 
 * **Project Title:** Meraki
 * **Course Code:** DCSN01C
@@ -120,7 +120,7 @@ The visual identity relies on a high-contrast "Dark Mode" aesthetic suited for c
     * **Body:** `'Lekton', sans-serif` — A monospaced/technical font used for navigation links, inputs, and review text.
 * **Iconography:**
     * Star ratings and contact icons are rendered using **FontAwesome**.
-
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Credits and Resources
@@ -138,6 +138,9 @@ This project utilizes the following external libraries and resources:
 * **Movie Metadata & Assets:**
     * **IMDb:** Referenced for accurate cast lists, directors, release dates, and rating benchmarks found in the modal descriptions.
     * **Netflix:** Used as the primary source for high-resolution movie posters and thumbnail images (via CDN).
+
+* **Developers:**
+  * Credits to <strong> <a href="https://github.com/HoanghoDev"> HoanghoDev (LUN DEV)</a></strong> and their <a href="https://youtu.be/iBcjzaOvE94?si=Owick7fw18HJeoae"> slider</a> which served as a key foundation and inspiration for the genre pages' layout and functionality.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,3 +177,4 @@ For inquiries, feedback, or grade-related correspondence, please contact:
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
